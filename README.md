@@ -116,3 +116,6 @@ In MetaMask: NFTs tab → Import NFT → paste Contract + Token ID.
 ---
 
 Local demo only: private keys in `Config.js` are the public Hardhat defaults; never use them beyond localhost.
+
+## Final Talk
+Feel free to use this project if you need anyhelp just mail me
